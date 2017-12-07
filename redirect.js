@@ -1,5 +1,6 @@
 var randomNumber = 0;
     //Math.floor(Math.random * 8);
+window.alert("before switch");
 switch(randomNumber){
   case 0: 
     window.alert("reached 0");
