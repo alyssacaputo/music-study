@@ -1,5 +1,4 @@
-var randomNumber = 0;
-    //Math.floor(Math.random * 8);
+var randomNumber = Math.floor(Math.random * 8);
 switch(randomNumber){
   case 0: 
     window.location.replace(https://tinyurl.com/acstudyX1);
