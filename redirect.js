@@ -1,3 +1,4 @@
+console.log("writing to console");
 var randomNumber = 0;
     //Math.floor(Math.random * 8);
 window.alert("before switch");
